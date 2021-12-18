@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "iPhone_Notifications_20_2x-2.png",
+      "filename" : "iPhone_Notifications_20_2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -13,7 +13,7 @@
       "size" : "20x20"
     },
     {
-      "filename" : "iPad_Settings_29_1x.png",
+      "filename" : "iPhone_Settings_29_2x-1.png",
       "idiom" : "iphone",
       "scale" : "1x",
       "size" : "29x29"
@@ -100,9 +100,17 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Icon_Art (Edit Me).png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
+    },
+    {
+      "filename" : "iPhone_Settings_29_3x-1.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "29x29",
+      "unassigned" : true
     }
   ],
   "info" : {
