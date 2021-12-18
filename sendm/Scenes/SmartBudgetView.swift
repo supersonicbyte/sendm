@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-import SwiftPieChart
 
 struct SmartBudgetView: View {
     var body: some View {

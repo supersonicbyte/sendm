@@ -38,7 +38,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="senndm11 1" width="739" height="1137"/>
+        <image name="senndm11 1" width="740" height="1384"/>
         <namedColor name="primaryGreen">
             <color red="0.41176470588235292" green="0.72549019607843135" blue="0.68627450980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
