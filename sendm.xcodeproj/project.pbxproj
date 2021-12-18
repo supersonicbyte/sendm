@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E11DC72276D8C3200222EF7 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC71276D8C3200222EF7 /* Color.swift */; };
+		5E11DC74276D8C9900222EF7 /* OvalTextFieldStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC73276D8C9900222EF7 /* OvalTextFieldStyle.swift */; };
+		5E11DC76276D8CF200222EF7 /* CustomProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC75276D8CF200222EF7 /* CustomProgressViewStyle.swift */; };
+		5E11DC79276D8D1B00222EF7 /* AmountPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC78276D8D1B00222EF7 /* AmountPickerView.swift */; };
+		5E11DC7B276D8D3A00222EF7 /* MyProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC7A276D8D3A00222EF7 /* MyProfileView.swift */; };
+		5E11DC7D276D8D5E00222EF7 /* MoneyPediaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC7C276D8D5E00222EF7 /* MoneyPediaView.swift */; };
+		5E11DC7F276D8D7F00222EF7 /* Font in Resources */ = {isa = PBXBuildFile; fileRef = 5E11DC7E276D8D7F00222EF7 /* Font */; };
+		5E11DC81276D8DDA00222EF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E11DC80276D8DDA00222EF7 /* LaunchScreen.storyboard */; };
+		5E11DC83276D93B700222EF7 /* MoneyPediaItemDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC82276D93B700222EF7 /* MoneyPediaItemDetailsView.swift */; };
+		5E11DC85276D986F00222EF7 /* SmartBudgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC84276D986F00222EF7 /* SmartBudgetView.swift */; };
+		5E11DC8D276D9F9F00222EF7 /* PieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC8C276D9F9F00222EF7 /* PieChartView.swift */; };
+		5E11DC8F276D9FC200222EF7 /* PieSliceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC8E276D9FC200222EF7 /* PieSliceView.swift */; };
+		5E11DC91276DA6BF00222EF7 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC90276DA6BF00222EF7 /* LoadingView.swift */; };
+		5E11DC93276DAC0000222EF7 /* ServicesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC92276DAC0000222EF7 /* ServicesView.swift */; };
+		5E11DC96276E05F100222EF7 /* ServiceDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC95276E05F100222EF7 /* ServiceDetailsView.swift */; };
+		5E11DC98276E0A6F00222EF7 /* LessonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E11DC97276E0A6F00222EF7 /* LessonsView.swift */; };
 		5ED805C2276D8B8B009382F7 /* sendmApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED805C1276D8B8B009382F7 /* sendmApp.swift */; };
 		5ED805C4276D8B8B009382F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED805C3276D8B8B009382F7 /* ContentView.swift */; };
 		5ED805C6276D8B8C009382F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED805C5276D8B8C009382F7 /* Assets.xcassets */; };
@@ -14,6 +30,23 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E11DC71276D8C3200222EF7 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		5E11DC73276D8C9900222EF7 /* OvalTextFieldStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OvalTextFieldStyle.swift; sourceTree = "<group>"; };
+		5E11DC75276D8CF200222EF7 /* CustomProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomProgressViewStyle.swift; sourceTree = "<group>"; };
+		5E11DC78276D8D1B00222EF7 /* AmountPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmountPickerView.swift; sourceTree = "<group>"; };
+		5E11DC7A276D8D3A00222EF7 /* MyProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileView.swift; sourceTree = "<group>"; };
+		5E11DC7C276D8D5E00222EF7 /* MoneyPediaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyPediaView.swift; sourceTree = "<group>"; };
+		5E11DC7E276D8D7F00222EF7 /* Font */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Font; sourceTree = "<group>"; };
+		5E11DC80276D8DDA00222EF7 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5E11DC82276D93B700222EF7 /* MoneyPediaItemDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyPediaItemDetailsView.swift; sourceTree = "<group>"; };
+		5E11DC84276D986F00222EF7 /* SmartBudgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmartBudgetView.swift; sourceTree = "<group>"; };
+		5E11DC8C276D9F9F00222EF7 /* PieChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
+		5E11DC8E276D9FC200222EF7 /* PieSliceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
+		5E11DC90276DA6BF00222EF7 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		5E11DC92276DAC0000222EF7 /* ServicesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesView.swift; sourceTree = "<group>"; };
+		5E11DC94276E052900222EF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5E11DC95276E05F100222EF7 /* ServiceDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceDetailsView.swift; sourceTree = "<group>"; };
+		5E11DC97276E0A6F00222EF7 /* LessonsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsView.swift; sourceTree = "<group>"; };
 		5ED805BE276D8B8B009382F7 /* sendm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sendm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED805C1276D8B8B009382F7 /* sendmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sendmApp.swift; sourceTree = "<group>"; };
 		5ED805C3276D8B8B009382F7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +65,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5E11DC6F276D8C0B00222EF7 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				5E11DC8B276D9F7200222EF7 /* PieChart */,
+				5E11DC73276D8C9900222EF7 /* OvalTextFieldStyle.swift */,
+				5E11DC75276D8CF200222EF7 /* CustomProgressViewStyle.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		5E11DC70276D8C2200222EF7 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				5E11DC71276D8C3200222EF7 /* Color.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		5E11DC77276D8D0B00222EF7 /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				5E11DC78276D8D1B00222EF7 /* AmountPickerView.swift */,
+				5E11DC7A276D8D3A00222EF7 /* MyProfileView.swift */,
+				5E11DC7C276D8D5E00222EF7 /* MoneyPediaView.swift */,
+				5E11DC82276D93B700222EF7 /* MoneyPediaItemDetailsView.swift */,
+				5E11DC84276D986F00222EF7 /* SmartBudgetView.swift */,
+				5E11DC90276DA6BF00222EF7 /* LoadingView.swift */,
+				5E11DC92276DAC0000222EF7 /* ServicesView.swift */,
+				5E11DC95276E05F100222EF7 /* ServiceDetailsView.swift */,
+				5E11DC97276E0A6F00222EF7 /* LessonsView.swift */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		5E11DC8B276D9F7200222EF7 /* PieChart */ = {
+			isa = PBXGroup;
+			children = (
+				5E11DC8C276D9F9F00222EF7 /* PieChartView.swift */,
+				5E11DC8E276D9FC200222EF7 /* PieSliceView.swift */,
+			);
+			path = PieChart;
+			sourceTree = "<group>";
+		};
 		5ED805B5276D8B8B009382F7 = {
 			isa = PBXGroup;
 			children = (
@@ -51,6 +127,12 @@
 		5ED805C0276D8B8B009382F7 /* sendm */ = {
 			isa = PBXGroup;
 			children = (
+				5E11DC94276E052900222EF7 /* Info.plist */,
+				5E11DC80276D8DDA00222EF7 /* LaunchScreen.storyboard */,
+				5E11DC7E276D8D7F00222EF7 /* Font */,
+				5E11DC77276D8D0B00222EF7 /* Scenes */,
+				5E11DC70276D8C2200222EF7 /* Utils */,
+				5E11DC6F276D8C0B00222EF7 /* Components */,
 				5ED805C1276D8B8B009382F7 /* sendmApp.swift */,
 				5ED805C3276D8B8B009382F7 /* ContentView.swift */,
 				5ED805C5276D8B8C009382F7 /* Assets.xcassets */,
@@ -83,6 +165,8 @@
 			dependencies = (
 			);
 			name = sendm;
+			packageProductDependencies = (
+			);
 			productName = sendm;
 			productReference = 5ED805BE276D8B8B009382F7 /* sendm.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +195,8 @@
 				Base,
 			);
 			mainGroup = 5ED805B5276D8B8B009382F7;
+			packageReferences = (
+			);
 			productRefGroup = 5ED805BF276D8B8B009382F7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,6 +212,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5ED805C9276D8B8C009382F7 /* Preview Assets.xcassets in Resources */,
+				5E11DC81276D8DDA00222EF7 /* LaunchScreen.storyboard in Resources */,
+				5E11DC7F276D8D7F00222EF7 /* Font in Resources */,
 				5ED805C6276D8B8C009382F7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +225,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E11DC79276D8D1B00222EF7 /* AmountPickerView.swift in Sources */,
+				5E11DC96276E05F100222EF7 /* ServiceDetailsView.swift in Sources */,
 				5ED805C4276D8B8B009382F7 /* ContentView.swift in Sources */,
+				5E11DC8F276D9FC200222EF7 /* PieSliceView.swift in Sources */,
 				5ED805C2276D8B8B009382F7 /* sendmApp.swift in Sources */,
+				5E11DC85276D986F00222EF7 /* SmartBudgetView.swift in Sources */,
+				5E11DC8D276D9F9F00222EF7 /* PieChartView.swift in Sources */,
+				5E11DC93276DAC0000222EF7 /* ServicesView.swift in Sources */,
+				5E11DC72276D8C3200222EF7 /* Color.swift in Sources */,
+				5E11DC7B276D8D3A00222EF7 /* MyProfileView.swift in Sources */,
+				5E11DC7D276D8D5E00222EF7 /* MoneyPediaView.swift in Sources */,
+				5E11DC83276D93B700222EF7 /* MoneyPediaItemDetailsView.swift in Sources */,
+				5E11DC74276D8C9900222EF7 /* OvalTextFieldStyle.swift in Sources */,
+				5E11DC91276DA6BF00222EF7 /* LoadingView.swift in Sources */,
+				5E11DC98276E0A6F00222EF7 /* LessonsView.swift in Sources */,
+				5E11DC76276D8CF200222EF7 /* CustomProgressViewStyle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,12 +374,13 @@
 				DEVELOPMENT_TEAM = KDQMX546X8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = sendm/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,7 +390,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,12 +405,13 @@
 				DEVELOPMENT_TEAM = KDQMX546X8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = sendm/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +421,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
